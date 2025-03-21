@@ -3,3 +3,5 @@
 .pixi
 *.egg-info
 
+# FashinMNIST data
+data/

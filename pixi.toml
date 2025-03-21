@@ -1,0 +1,15 @@
+[project]
+authors = ["yusaku-m <jagaimo13@gmail.com>"]
+channels = ["conda-forge"]
+name = "JikkenII"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+pytorch = ">=2.6.0,<3"
+pip = ">=25.0.1,<26"
+matplotlib = ">=3.10.1,<4"
+torchvision = ">=0.21.0,<0.22"
+pandas = ">=2.2.3,<3"

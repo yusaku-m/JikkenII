@@ -4,4 +4,4 @@
 *.egg-info
 
 # FashinMNIST data
-data/
+data/FashionMNIST

@@ -37,6 +37,8 @@
         
         https://www.kaggle.com/datasets/hellbuoy/car-price-prediction?resource=download
         
+        
+        
     4. やってみようのコーナー
         1. 大体前回と同じ
 3. 自由課題？コンペ？
@@ -59,4 +61,8 @@
     2. 基本ネットワーク以外のモデルを組めた。
     3. 全結合３層の基本ネットワーク訓練ができた。（１００回くらい訓練して正解率の箱ひげ，バイオリンプロット）
     4. 全結合３層の基本ネットワーク訓練ができなかった。
+
+
+## 使えそうなデータセット
+車の価格：https://www.kaggle.com/datasets/hellbuoy/car-price-prediction
 
